@@ -1,5 +1,5 @@
 ---
-title: "From AI Subscriptions to APIs: Why I Stopped Paying Monthly and Started Paying Per Token"
+title: "Claudeのサブスクが払えなくなったので、API生活に移行してみることにした話"
 emoji: "🤖"
 type: "tech"
 topics: ["ai", "claude", "openai", "api", "cost"]
